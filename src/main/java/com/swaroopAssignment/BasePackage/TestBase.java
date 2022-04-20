@@ -30,30 +30,30 @@ public class TestBase {
 	}
 
 	
-	public void initialization() {
-//		String browserName = prop.getProperty("browser");
-//
-//		switch (browserName) {
-//		case "chrome":
-//			WebDriverManager.chromedriver().setup();
-//			wd = new ChromeDriver();
-//			break;
-//		case "edge":
-//			WebDriverManager.edgedriver().setup();
-//			wd = new ChromeDriver();
-//			break;
-//		case "firefox":
-//			WebDriverManager.firefoxdriver().setup();
-//			wd = new ChromeDriver();
-//			break;
-//		default:
-//			System.out.println("Please use a valid browser name");
-//			break;
-//		}
-		
-		
-	
-	}
+//	public void initialization() {
+////		String browserName = prop.getProperty("browser");
+////
+////		switch (browserName) {
+////		case "chrome":
+////			WebDriverManager.chromedriver().setup();
+////			wd = new ChromeDriver();
+////			break;
+////		case "edge":
+////			WebDriverManager.edgedriver().setup();
+////			wd = new ChromeDriver();
+////			break;
+////		case "firefox":
+////			WebDriverManager.firefoxdriver().setup();
+////			wd = new ChromeDriver();
+////			break;
+////		default:
+////			System.out.println("Please use a valid browser name");
+////			break;
+////		}
+//		
+//		
+//	
+//	}
 	
 	
 }
